@@ -39,6 +39,7 @@ https://www.bilibili.com/video/av26731585/ 配套教学视频
 ## 主要项目代码文件夹：
 
 GSE42872_main，主要演示GEO数据库挖掘的标准6步骤
+
 GSE11121_surivival，主要演示基于基因表达量分组的批量生存分析
 
 ## 六个任务项目文件夹：
