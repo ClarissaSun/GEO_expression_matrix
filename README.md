@@ -3,7 +3,7 @@ This is a sample project to conduct a thorough analysis on GSE42872
 
 
 ---------------------------------------------------------------------------------
-related links:
+# related links:
 
 http://www.bio-info-trainee.com/2087.html GEO数据库挖掘系列知识分享课程
 https://www.bilibili.com/video/av26731585/ 配套教学视频
@@ -11,15 +11,25 @@ https://www.bilibili.com/video/av26731585/ 配套教学视频
 # course structure:
 
 第一讲：GEO，表达芯片与R
+
 第二讲：从GEO下载数据得到表达量矩阵
+
 第三讲：对表达量矩阵用GSEA软件做分析
+
 第四讲：根据分组信息做差异分析
+
 第五讲：对差异基因结果做GO/KEGG超几何分布检验富集分析
+
 第六讲：指定基因分组boxplot指定基因list画热图
+
 第七讲：根据差异基因list获取string数据库的PPI网络数据
+
 第八讲：PPI网络数据用R或者cytoscape画网络图
+
 第九讲：网络图的子网络获取
+
 第十讲：hug genes如何找
+
 ----------------------------------------------------------------------------------
 
 
