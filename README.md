@@ -1,7 +1,5 @@
 # GEO_expression_matrix
-This is a sample project to conduct a thorough analysis on GSE42872
-
-
+This is a sample project on conducting analysis on GEO expression matrix. It contains different subprojects and the detailed information can be found in the third part.
 ---------------------------------------------------------------------------------
 # related links:
 
@@ -10,6 +8,7 @@ http://www.bio-info-trainee.com/2087.html GEO数据库挖掘系列知识分享�
 
 https://www.bilibili.com/video/av26731585/ 配套教学视频
 
+--------------------------------------------------------------------------------
 # course structure:
 
 第一讲：GEO，表达芯片与R
